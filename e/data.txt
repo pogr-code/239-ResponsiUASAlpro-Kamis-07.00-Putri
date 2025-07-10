@@ -1,0 +1,10 @@
+P001,Indomie,20,3000
+P002,Teh Botol,15,4000
+P003,Biskuit,10,2000
+P004,Roti Tawar,8,6000
+P005,Susu UHT,12,5000
+P006,Keripik Kentang,25,2500
+P007,Kopi Sachet,30,1500
+P008,Air Mineral,40,1000
+P009,Coklat,5,8000
+P010,Permen,50,500
